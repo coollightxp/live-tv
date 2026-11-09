@@ -1,0 +1,1484 @@
+[
+  {
+    "name": "CCTV",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://192.151.150.154/live/cctv8k.m3u8",
+        "status": "ok",
+        "latency_ms": 790,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV Billiards",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub",
+        "status": "ok",
+        "latency_ms": 794,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV Culture of Quality",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub",
+        "status": "ok",
+        "latency_ms": 796,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV Golf & Tennis",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub",
+        "status": "ok",
+        "latency_ms": 795,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV Health",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub",
+        "status": "ok",
+        "latency_ms": 796,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV Nostalgia Theater",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub",
+        "status": "ok",
+        "latency_ms": 806,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV Storm Football",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
+        "status": "ok",
+        "latency_ms": 786,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV Storm Music",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub",
+        "status": "ok",
+        "latency_ms": 801,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV Storm Theater",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub",
+        "status": "ok",
+        "latency_ms": 793,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV The First Theater",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub",
+        "status": "ok",
+        "latency_ms": 767,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV Weapon & Technology",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub",
+        "status": "ok",
+        "latency_ms": 801,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV Women's Fashion",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub",
+        "status": "ok",
+        "latency_ms": 812,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV World Geography",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub",
+        "status": "ok",
+        "latency_ms": 790,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV+ 1",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8",
+        "status": "ok",
+        "latency_ms": 2979,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV+ 2",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8",
+        "status": "ok",
+        "latency_ms": 3001,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV-1 综合",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://74.91.26.218:82/live/cctv1hd.m3u8",
+        "status": "ok",
+        "latency_ms": 795,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV-10 科教",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://74.91.26.218:82/live/cctv10hd.m3u8",
+        "status": "ok",
+        "latency_ms": 779,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV-11 戏曲",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://74.91.26.218:82/live/cctv11hd.m3u8",
+        "status": "ok",
+        "latency_ms": 802,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV-12 社会与法",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "status": "ok",
+        "latency_ms": 39,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
+        "status": "ok",
+        "latency_ms": 864,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV-13 新闻",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 55,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://74.91.26.218:82/live/cctv13hd.m3u8",
+        "status": "ok",
+        "latency_ms": 810,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV-14 少儿",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://74.91.26.218:82/live/cctv14hd.m3u8",
+        "status": "ok",
+        "latency_ms": 803,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV-15 音乐",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://gmxw.7766.org:808/hls/102/index.m3u8",
+        "status": "ok",
+        "latency_ms": 114,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
+        "status": "ok",
+        "latency_ms": 800,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV-16 奥林匹克",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://gmxw.7766.org:808/hls/169/index.m3u8",
+        "status": "ok",
+        "latency_ms": 114,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://74.91.26.218:82/live/cctv16hd.m3u8",
+        "status": "ok",
+        "latency_ms": 1296,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV-17 农业农村",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://74.91.26.218:82/live/cctv17hd.m3u8",
+        "status": "ok",
+        "latency_ms": 795,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV-2 财经",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://74.91.26.218:82/live/cctv2hd.m3u8",
+        "status": "ok",
+        "latency_ms": 788,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV-3 综艺",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "status": "ok",
+        "latency_ms": 47,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://74.91.26.218:82/live/cctv3hd.m3u8",
+        "status": "ok",
+        "latency_ms": 894,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV-5 体育",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://gmxw.7766.org:808/hls/93/index.m3u8",
+        "status": "ok",
+        "latency_ms": 125,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "CCTV-6 电影",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "https://live.eac-news.com/CCTV/streams/cctv6.m3u8",
+        "status": "geo",
+        "latency_ms": 2863,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV-7 国防军事",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://74.91.26.218:82/live/cctv7hd.m3u8",
+        "status": "ok",
+        "latency_ms": 896,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CCTV-8 电视剧",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "status": "ok",
+        "latency_ms": 39,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://gmxw.7766.org:808/hls/96/index.m3u8",
+        "status": "ok",
+        "latency_ms": 123,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://74.91.26.218:82/live/cctv8hd.m3u8",
+        "status": "ok",
+        "latency_ms": 791,
+        "source": "iptv-org/cn"
+      }
+    ]
+  },
+  {
+    "name": "CGTN",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8",
+        "status": "ok",
+        "latency_ms": 108,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://0472.org/hls/cgtn.m3u8",
+        "status": "geo",
+        "latency_ms": 7245,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "CGTN法语",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8",
+        "status": "ok",
+        "latency_ms": 61,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "CGTN纪录",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8",
+        "status": "ok",
+        "latency_ms": 3017,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://0472.org/hls/cgtnd.m3u8",
+        "status": "geo",
+        "latency_ms": 3534,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "CGTN西语",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "https://0472.org/hls/cgtnx.m3u8",
+        "status": "geo",
+        "latency_ms": 6844,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "CGTN阿语",
+    "category": "央视",
+    "urls": [
+      {
+        "url": "https://0472.org/hls/cgtna.m3u8",
+        "status": "geo",
+        "latency_ms": 7147,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "东南卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://125.43.249.76:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "status": "ok",
+        "latency_ms": 48,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://live.zohi.tv/video/s10001-fztv-3/index.m3u8",
+        "status": "ok",
+        "latency_ms": 114,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "东方卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://bp-resource-dfl.bestv.cn/148/3/video.m3u8",
+        "status": "ok",
+        "latency_ms": 98,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://bp-resource-dfl.bestv.cn/155/3/video.m3u8",
+        "status": "ok",
+        "latency_ms": 345,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://bp-resource-dfl.bestv.cn/148/3/video.m3u8",
+        "status": "ok",
+        "latency_ms": 6650,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "人间卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u",
+        "status": "geo",
+        "latency_ms": 264,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8",
+        "status": "geo",
+        "latency_ms": 6572,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "内蒙古卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://play1-qk.nmtv.cn/live/1769652018126032.m3u8",
+        "status": "ok",
+        "latency_ms": 194,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "四川科教",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8",
+        "status": "ok",
+        "latency_ms": 197,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "天津卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "status": "ok",
+        "latency_ms": 62,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "安多卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "https://liveout.xntv.tv/a65jur/96iln2.m3u8",
+        "status": "ok",
+        "latency_ms": 6421,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "安徽卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://125.43.249.76:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "status": "ok",
+        "latency_ms": 44,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://gmxw.7766.org:808/hls/40/index.m3u8",
+        "status": "ok",
+        "latency_ms": 106,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "安徽导视",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8",
+        "status": "ok",
+        "latency_ms": 206,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "山东卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://125.43.249.76:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "status": "ok",
+        "latency_ms": 41,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "山东教育",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8",
+        "status": "ok",
+        "latency_ms": 13280,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "山东新闻",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ls.qingting.fm/live/60180.m3u8",
+        "status": "ok",
+        "latency_ms": 298,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "山东生活",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ls.qingting.fm/live/60260.m3u8",
+        "status": "ok",
+        "latency_ms": 373,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "山西卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://119.39.9.8:9901/tsfile/live/0118_1.m3u8",
+        "status": "ok",
+        "latency_ms": 67,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8",
+        "status": "ok",
+        "latency_ms": 197,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "广东卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "status": "ok",
+        "latency_ms": 56,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4",
+        "status": "geo",
+        "latency_ms": 69,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "广东民生",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://183.11.239.36:808/hls/18/index.m3u8",
+        "status": "ok",
+        "latency_ms": 209,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "广西国际",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8",
+        "status": "geo",
+        "latency_ms": 4309,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "延边卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#",
+        "status": "ok",
+        "latency_ms": 73,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://srs.iyb983.cn:443/video/CYS/index.m3u8",
+        "status": "ok",
+        "latency_ms": 837,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://srs.iyb983.cn/video/CYS/index.m3u8",
+        "status": "ok",
+        "latency_ms": 4039,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "新疆卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd",
+        "status": "ok",
+        "latency_ms": 149,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "江苏卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://125.43.249.76:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "status": "ok",
+        "latency_ms": 43,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "江西卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "status": "ok",
+        "latency_ms": 74,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "河北农民",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ls.qingting.fm/live/1650.m3u8",
+        "status": "ok",
+        "latency_ms": 97,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ls.qingting.fm/live/1650/64k.m3u8",
+        "status": "ok",
+        "latency_ms": 6404,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd",
+        "status": "ok",
+        "latency_ms": 6619,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "河北都市",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "https://radio.pull.hebtv.com/live/hebnczx.m3u8",
+        "status": "ok",
+        "latency_ms": 6709,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江休闲台",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8",
+        "status": "ok",
+        "latency_ms": 192,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江公共新闻",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 55,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 286,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 5598,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8",
+        "status": "ok",
+        "latency_ms": 26,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 69,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 131,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?",
+        "status": "ok",
+        "latency_ms": 4532,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 6333,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江国际",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 83,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8",
+        "status": "ok",
+        "latency_ms": 198,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8",
+        "status": "ok",
+        "latency_ms": 266,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 6290,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?",
+        "status": "ok",
+        "latency_ms": 7002,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江少儿",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 195,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8",
+        "status": "ok",
+        "latency_ms": 200,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 5200,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?",
+        "status": "ok",
+        "latency_ms": 5793,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江教科",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 194,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江教科影视",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8",
+        "status": "ok",
+        "latency_ms": 99,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 198,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 6802,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江教育",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8",
+        "status": "ok",
+        "latency_ms": 128,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江数码时代",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8",
+        "status": "ok",
+        "latency_ms": 195,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed",
+        "status": "ok",
+        "latency_ms": 198,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江新闻",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8",
+        "status": "ok",
+        "latency_ms": 92,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8",
+        "status": "ok",
+        "latency_ms": 105,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8",
+        "status": "ok",
+        "latency_ms": 181,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?",
+        "status": "ok",
+        "latency_ms": 6334,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江民生",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 81,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 96,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8",
+        "status": "ok",
+        "latency_ms": 105,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?",
+        "status": "ok",
+        "latency_ms": 5816,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江民生休闲",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8",
+        "status": "ok",
+        "latency_ms": 196,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 5818,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江生活",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ls.qingting.fm/live/1099.m3u8",
+        "status": "ok",
+        "latency_ms": 196,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江留学",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8",
+        "status": "ok",
+        "latency_ms": 202,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江经济",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 288,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8",
+        "status": "ok",
+        "latency_ms": 299,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?",
+        "status": "ok",
+        "latency_ms": 5798,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江经济生活",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8",
+        "status": "ok",
+        "latency_ms": 16,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 196,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 289,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江经视",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8",
+        "status": "ok",
+        "latency_ms": 186,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 5900,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江遂昌",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8",
+        "status": "ok",
+        "latency_ms": 199,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江钱江",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8",
+        "status": "ok",
+        "latency_ms": 299,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?",
+        "status": "ok",
+        "latency_ms": 5819,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江钱江都市",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8",
+        "status": "ok",
+        "latency_ms": 112,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8",
+        "status": "ok",
+        "latency_ms": 202,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 5900,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "浙江钱江频道",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 288,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "海南新闻",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ls.qingting.fm/live/1861.m3u8",
+        "status": "ok",
+        "latency_ms": 49,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "深圳卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://gmxw.7766.org:808/hls/45/index.m3u8",
+        "status": "ok",
+        "latency_ms": 87,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "湖南卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8",
+        "status": "ok",
+        "latency_ms": 60,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
+        "status": "ok",
+        "latency_ms": 123,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
+        "status": "ok",
+        "latency_ms": 140,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://www.yao87.com:4022/udp/239.76.246.101:1234",
+        "status": "ok",
+        "latency_ms": 228,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "甘肃卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://218.13.170.98:9901/tsfile/live/0141_1.m3u8",
+        "status": "ok",
+        "latency_ms": 92,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "苏州文化生活",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "https://live-auth.51kandianshi.com/szgd/csztv3.m3u8",
+        "status": "ok",
+        "latency_ms": 4025,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "苏州新闻综合",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "https://live-auth.51kandianshi.com/szgd/csztv1.m3u8",
+        "status": "ok",
+        "latency_ms": 4205,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "苏州生活资讯",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "https://live-auth.51kandianshi.com/szgd/csztv5.m3u8",
+        "status": "ok",
+        "latency_ms": 3693,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "苏州社会经济",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "https://live-auth.51kandianshi.com/szgd/csztv2.m3u8",
+        "status": "ok",
+        "latency_ms": 3403,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "西藏卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "status": "ok",
+        "latency_ms": 82,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "辽宁卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "status": "ok",
+        "latency_ms": 56,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "辽宁都市",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "https://ls.qingting.fm/live/1099/64k.m3u8",
+        "status": "ok",
+        "latency_ms": 3669,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "陕西公共",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "http://ls.qingting.fm/live/1222.m3u8",
+        "status": "ok",
+        "latency_ms": 165,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "黑龙江卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "status": "ok",
+        "latency_ms": 57,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://idclive.hljtv.com:4430/live/hljws_own.m3u8",
+        "status": "ok",
+        "latency_ms": 5605,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "黑龙江少儿",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "https://ls.qingting.fm/live/4972/64k.m3u8",
+        "status": "ok",
+        "latency_ms": 5390,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "黑龙江文体",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8",
+        "status": "ok",
+        "latency_ms": 3301,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "黑龙江新闻",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "https://ls.qingting.fm/live/4974/64k.m3u8",
+        "status": "ok",
+        "latency_ms": 3465,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "黑龙江都市",
+    "category": "地方台",
+    "urls": [
+      {
+        "url": "https://idclive.hljtv.com:4430/live/dushi_hd.m3u8",
+        "status": "ok",
+        "latency_ms": 3343,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  }
+]

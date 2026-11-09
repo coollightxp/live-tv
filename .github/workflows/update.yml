@@ -1,0 +1,51 @@
+name: 自动更新直播源
+
+on:
+  schedule:
+    # 每 6 小时跑一次（UTC 时间；北京时间 +8）
+    - cron: '0 */6 * * *'
+  workflow_dispatch:        # 支持手动点击运行
+  push:
+    branches: [ main ]
+    paths:
+      - 'build_playlist.py'
+      - '.github/workflows/update.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: playlist-update
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 构建播放列表
+        run: python build_playlist.py --region overseas
+
+      - name: 提交更新
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add live.m3u sources.json report.csv stats.json
+          if git diff --staged --quiet; then
+            echo "无变更，跳过提交"
+          else
+            git commit -m "chore: 自动更新直播源 $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

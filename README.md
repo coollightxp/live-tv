@@ -127,6 +127,17 @@ CHANNEL_KEYWORDS = None
 
 ---
 
+### 央视白名单与源类型降权（已内置）
+
+- **央视严格白名单**：只保留 `CCTV-1 ~ CCTV-17`、`CCTV-5+`、`CCTV-4K/8K`、`CGTN` 系。
+  社区列表里的伪台（`CCTV Billiards`、`CCTV怀旧剧场`、`CCTV Storm Football` 等）
+  会直接丢弃，绝不进列表。
+- **IPTV 网关型源降权**：`xxx:9901/tsfile/...`、`key=txiptv`、私网 IP 这类
+  运营商 IPTV 网关源，海外机房测速很漂亮但普通家宽连不稳。
+  源池排序改为：可用 > 公网型 > IPTV 型 > 低延迟，M3U 主选尽量用公网源。
+- **`--public-only`**：想更狠可以加这个参数，IPTV 网关型源直接剔除
+  （列表更干净，但频道会少一截，比如 CCTV-4 只剩网关源时会被挤掉）。
+
 ## 五、⚠️ 重要：测速结果的偏差
 
 GitHub 的服务器在**海外**，而大量国内 IPTV 源按 IP 地域限制访问。

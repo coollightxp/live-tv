@@ -119,6 +119,7 @@ class Candidate:
     status: str = "untested"      # ok / geo / dead
     detail: str = ""
     is_hls: bool = False          # 首包是否为 HLS 播放列表
+    net: str = "public"           # public=公网可达 / iptv=运营商IPTV网关型
 
 
 @dataclass
@@ -234,22 +235,44 @@ def normalize(name: str) -> str:
     """频道名归一：同一频道不论清晰度/写法，统一成一个名字"""
     s = strip_quality(name.replace("\u3000", " ").strip())
 
-    # 央视：CCTV 1 / CCTV-01 / CCTV1综合 → CCTV-N 标准名
-    m = re.search(r"CCTV\s*[-_]?\s*(\d{1,2})\s*(\+)?", s, re.I)
+    # 央视：CCTV 1 / CCTV-01 / CCTV1综合 → CCTV-N 标准名（4K/8K 优先于数字，避免 CCTV-4K 被误判成 CCTV-4）
+    m = re.search(r"CCTV\s*[-_]?\s*(4K|8K|5\+|\d{1,2})(\+)?", s, re.I)
     if m:
-        num, plus = int(m.group(1)), ("+" if m.group(2) else "")
-        key = f"CCTV{num}{plus}"
-        if key in NAME_ALIASES:
-            return NAME_ALIASES[key]
-        return f"CCTV-{num}{plus}"
+        tag = m.group(1).upper() + ("+" if m.group(2) else "")
+        if tag in ("4K", "8K"):
+            return f"CCTV-{tag}"
+        return NAME_ALIASES.get("CCTV" + tag, f"CCTV-{tag}")
 
     return s if s else name.strip()
 
 
 def is_wanted(name: str) -> bool:
+    # 央视严格白名单：只认 CCTV-1~17 / 5+ / 4K / 8K / CGTN，
+    # 伪台（CCTV Billiards、CCTV怀旧剧场这种）一律丢弃；
+    # 兼容无横杠写法（CCTV5）和带画质后缀的写法（CCTV-5+ (1080p)）
+    if name.upper().startswith("CCTV"):
+        return bool(re.match(r"^CCTV[-_ ]?(\d{1,2}|5\+|4K|8K)(\s|$)", name, re.I))
+    if name.upper().startswith("CGTN"):
+        return True
     if CHANNEL_KEYWORDS is None:
         return True
     return any(k.upper() in name.upper() for k in CHANNEL_KEYWORDS)
+
+
+_IPTV_HINTS = (":9901/", "tsfile/", "txiptv", "authid", "playlive")
+
+
+def classify_net(url: str) -> str:
+    """识别运营商 IPTV 网关型源：海外机房测得通，普通家宽却连不稳"""
+    u = url.lower()
+    if any(h in u for h in _IPTV_HINTS):
+        return "iptv"
+    m = re.match(r"https?://(\d+\.\d+\.\d+\.\d+)", u)
+    if m:                                   # 私网 IP 段直接判内网
+        a, b, *_ = (int(x) for x in m.group(1).split("."))
+        if a == 10 or (a == 192 and b == 168) or (a == 172 and 16 <= b <= 31):
+            return "iptv"
+    return "public"
 
 
 def dedupe(cands: Iterable[Candidate]) -> list[Candidate]:
@@ -267,6 +290,7 @@ def dedupe(cands: Iterable[Candidate]) -> list[Candidate]:
 
 def probe(c: Candidate, region: str) -> Candidate:
     """探测单条源：拉首包判断是否为合法流"""
+    c.net = classify_net(c.url)
     t0 = time.time()
     try:
         r = requests.get(c.url, headers=HEADERS, timeout=8, stream=True, allow_redirects=True)
@@ -421,7 +445,12 @@ def group_by_channel(cands: list[Candidate]) -> dict[str, list[Candidate]]:
             continue
         groups.setdefault(c.name, []).append(c)
     for name in groups:
-        groups[name].sort(key=lambda x: (x.status != "ok", x.latency if x.latency > 0 else 99999))
+        # 排序：ok 优先 → 公网源优先于 IPTV 网关型 → 延迟低优先
+        groups[name].sort(key=lambda x: (
+            x.status != "ok",
+            x.net != "public",
+            x.latency if x.latency > 0 else 99999,
+        ))
     return groups
 
 
@@ -489,6 +518,8 @@ def main() -> int:
     ap.add_argument("--out", default="live.m3u")
     ap.add_argument("--no-deep", action="store_true",
                     help="跳过分片深度校验（更快，但可能混入假活源）")
+    ap.add_argument("--public-only", action="store_true",
+                    help="只保留公网型源，剔除运营商 IPTV 网关型源（更精但更少）")
     args = ap.parse_args()
 
     print("=" * 60)
@@ -504,7 +535,12 @@ def main() -> int:
     candidates = dedupe([c for c in candidates if is_wanted(c.name)])
     for c in candidates:
         c.name = normalize(c.name)
-    candidates = dedupe(candidates)
+    # 归一化后再滤一遍：剥掉画质后缀后露出真面目的（如 CCTV-8K→CCTV）在这里拦下
+    candidates = dedupe([c for c in candidates if is_wanted(c.name)])
+    if args.public_only:
+        before = len(candidates)
+        candidates = [c for c in candidates if classify_net(c.url) == "public"]
+        print(f"  剔除 IPTV 网关型源 {before - len(candidates)} 条（--public-only）")
     stats.accepted = len(candidates)
     print(f"  候选: {len(candidates)} 条")
 

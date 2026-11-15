@@ -6,13 +6,13 @@
       {
         "url": "http://74.91.26.218:82/live/cctv1hd.m3u8",
         "status": "ok",
-        "latency_ms": 174,
+        "latency_ms": 823,
         "source": "iptv-org/cn"
       },
       {
         "url": "http://69.30.245.50/live/cctv1.m3u8",
         "status": "geo",
-        "latency_ms": 73,
+        "latency_ms": 79,
         "source": "iptv-org/cn"
       }
     ]
@@ -24,7 +24,7 @@
       {
         "url": "http://74.91.26.218:82/live/cctv10hd.m3u8",
         "status": "ok",
-        "latency_ms": 146,
+        "latency_ms": 848,
         "source": "iptv-org/cn"
       }
     ]
@@ -36,7 +36,7 @@
       {
         "url": "http://74.91.26.218:82/live/cctv11hd.m3u8",
         "status": "ok",
-        "latency_ms": 889,
+        "latency_ms": 166,
         "source": "iptv-org/cn"
       }
     ]
@@ -48,13 +48,13 @@
       {
         "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
         "status": "ok",
-        "latency_ms": 156,
+        "latency_ms": 836,
         "source": "iptv-org/cn"
       },
       {
         "url": "http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0",
         "status": "ok",
-        "latency_ms": 535,
+        "latency_ms": 362,
         "source": "vbskycn/iptv"
       }
     ]
@@ -66,19 +66,19 @@
       {
         "url": "http://74.91.26.218:82/live/cctv13hd.m3u8",
         "status": "ok",
-        "latency_ms": 166,
+        "latency_ms": 832,
         "source": "iptv-org/cn"
       },
       {
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8",
         "status": "ok",
-        "latency_ms": 1357,
+        "latency_ms": 1096,
         "source": "vbskycn/iptv"
       },
       {
         "url": "http://go.bkpcp.top/mg/cctv13",
         "status": "geo",
-        "latency_ms": 1383,
+        "latency_ms": 1405,
         "source": "iptv-org/cn"
       }
     ]
@@ -90,7 +90,7 @@
       {
         "url": "http://74.91.26.218:82/live/cctv14hd.m3u8",
         "status": "ok",
-        "latency_ms": 153,
+        "latency_ms": 818,
         "source": "iptv-org/cn"
       }
     ]
@@ -100,9 +100,15 @@
     "category": "央视",
     "urls": [
       {
+        "url": "http://gmxw.7766.org:808/hls/102/index.m3u8",
+        "status": "ok",
+        "latency_ms": 686,
+        "source": "vbskycn/iptv"
+      },
+      {
         "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
         "status": "ok",
-        "latency_ms": 162,
+        "latency_ms": 828,
         "source": "iptv-org/cn"
       }
     ]
@@ -112,9 +118,15 @@
     "category": "央视",
     "urls": [
       {
+        "url": "http://gmxw.7766.org:808/hls/169/index.m3u8",
+        "status": "ok",
+        "latency_ms": 679,
+        "source": "vbskycn/iptv"
+      },
+      {
         "url": "http://74.91.26.218:82/live/cctv16hd.m3u8",
         "status": "geo",
-        "latency_ms": 75,
+        "latency_ms": 78,
         "source": "iptv-org/cn"
       }
     ]
@@ -126,19 +138,19 @@
       {
         "url": "http://74.91.26.218:82/live/cctv17hd.m3u8",
         "status": "ok",
-        "latency_ms": 166,
+        "latency_ms": 806,
         "source": "iptv-org/cn"
-      },
-      {
-        "url": "https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
-        "status": "geo",
-        "latency_ms": 1216,
-        "source": "vbskycn/iptv"
       },
       {
         "url": "https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
         "status": "geo",
-        "latency_ms": 1218,
+        "latency_ms": 1425,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+        "status": "geo",
+        "latency_ms": 1453,
         "source": "vbskycn/iptv"
       }
     ]
@@ -150,7 +162,7 @@
       {
         "url": "http://74.91.26.218:82/live/cctv2hd.m3u8",
         "status": "ok",
-        "latency_ms": 173,
+        "latency_ms": 840,
         "source": "iptv-org/cn"
       }
     ]
@@ -162,7 +174,7 @@
       {
         "url": "http://74.91.26.218:82/live/cctv3hd.m3u8",
         "status": "ok",
-        "latency_ms": 148,
+        "latency_ms": 157,
         "source": "iptv-org/cn"
       }
     ]
@@ -174,7 +186,7 @@
       {
         "url": "http://gmxw.7766.org:808/hls/93/index.m3u8",
         "status": "ok",
-        "latency_ms": 4412,
+        "latency_ms": 702,
         "source": "vbskycn/iptv"
       }
     ]
@@ -186,13 +198,13 @@
       {
         "url": "http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0",
         "status": "ok",
-        "latency_ms": 914,
+        "latency_ms": 1063,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p",
         "status": "geo",
-        "latency_ms": 413,
+        "latency_ms": 469,
         "source": "iptv-org/cn"
       }
     ]
@@ -210,7 +222,7 @@
       {
         "url": "https://live.eac-news.com/CCTV/streams/cctv6.m3u8",
         "status": "geo",
-        "latency_ms": 613,
+        "latency_ms": 577,
         "source": "iptv-org/cn"
       }
     ]
@@ -222,7 +234,7 @@
       {
         "url": "http://74.91.26.218:82/live/cctv7hd.m3u8",
         "status": "ok",
-        "latency_ms": 167,
+        "latency_ms": 812,
         "source": "iptv-org/cn"
       }
     ]
@@ -232,15 +244,21 @@
     "category": "央视",
     "urls": [
       {
+        "url": "http://gmxw.7766.org:808/hls/96/index.m3u8",
+        "status": "ok",
+        "latency_ms": 687,
+        "source": "vbskycn/iptv"
+      },
+      {
         "url": "http://74.91.26.218:82/live/cctv8hd.m3u8",
         "status": "ok",
-        "latency_ms": 178,
+        "latency_ms": 808,
         "source": "iptv-org/cn"
       },
       {
         "url": "http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
         "status": "ok",
-        "latency_ms": 541,
+        "latency_ms": 372,
         "source": "vbskycn/iptv"
       }
     ]
@@ -252,13 +270,13 @@
       {
         "url": "http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8",
         "status": "ok",
-        "latency_ms": 535,
+        "latency_ms": 428,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://0472.org/hls/cgtn.m3u8",
         "status": "geo",
-        "latency_ms": 289,
+        "latency_ms": 165,
         "source": "vbskycn/iptv"
       }
     ]
@@ -270,7 +288,7 @@
       {
         "url": "http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8",
         "status": "ok",
-        "latency_ms": 230,
+        "latency_ms": 219,
         "source": "vbskycn/iptv"
       }
     ]
@@ -282,13 +300,13 @@
       {
         "url": "https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8",
         "status": "ok",
-        "latency_ms": 787,
+        "latency_ms": 609,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://0472.org/hls/cgtnd.m3u8",
         "status": "geo",
-        "latency_ms": 213,
+        "latency_ms": 142,
         "source": "vbskycn/iptv"
       }
     ]
@@ -300,7 +318,7 @@
       {
         "url": "https://0472.org/hls/cgtnx.m3u8",
         "status": "geo",
-        "latency_ms": 262,
+        "latency_ms": 150,
         "source": "vbskycn/iptv"
       }
     ]
@@ -312,7 +330,7 @@
       {
         "url": "https://0472.org/hls/cgtna.m3u8",
         "status": "geo",
-        "latency_ms": 266,
+        "latency_ms": 142,
         "source": "vbskycn/iptv"
       }
     ]
@@ -324,7 +342,31 @@
       {
         "url": "http://live.zohi.tv/video/s10001-fztv-3/index.m3u8",
         "status": "ok",
-        "latency_ms": 1175,
+        "latency_ms": 987,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "东方卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "https://bp-resource-dfl.bestv.cn/148/3/video.m3u8",
+        "status": "ok",
+        "latency_ms": 740,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://bp-resource-dfl.bestv.cn/148/3/video.m3u8",
+        "status": "ok",
+        "latency_ms": 822,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://bp-resource-dfl.bestv.cn/155/3/video.m3u8",
+        "status": "ok",
+        "latency_ms": 851,
         "source": "vbskycn/iptv"
       }
     ]
@@ -336,13 +378,13 @@
       {
         "url": "http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u",
         "status": "geo",
-        "latency_ms": 587,
+        "latency_ms": 506,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8",
         "status": "geo",
-        "latency_ms": 823,
+        "latency_ms": 781,
         "source": "vbskycn/iptv"
       }
     ]
@@ -354,19 +396,19 @@
       {
         "url": "http://play1-qk.nmtv.cn/live/1769652018126032.m3u8",
         "status": "ok",
-        "latency_ms": 3624,
+        "latency_ms": 1618,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
         "status": "geo",
-        "latency_ms": 142,
+        "latency_ms": 638,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
         "status": "geo",
-        "latency_ms": 205,
+        "latency_ms": 693,
         "source": "vbskycn/iptv"
       }
     ]
@@ -378,7 +420,7 @@
       {
         "url": "http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0",
         "status": "ok",
-        "latency_ms": 511,
+        "latency_ms": 397,
         "source": "vbskycn/iptv"
       }
     ]
@@ -388,15 +430,15 @@
     "category": "卫视",
     "urls": [
       {
-        "url": "https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+        "url": "https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
         "status": "geo",
-        "latency_ms": 627,
+        "latency_ms": 1267,
         "source": "vbskycn/iptv"
       },
       {
-        "url": "https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+        "url": "https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
         "status": "geo",
-        "latency_ms": 635,
+        "latency_ms": 1409,
         "source": "vbskycn/iptv"
       }
     ]
@@ -408,7 +450,7 @@
       {
         "url": "http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8",
         "status": "ok",
-        "latency_ms": 3012,
+        "latency_ms": 733,
         "source": "vbskycn/iptv"
       }
     ]
@@ -418,21 +460,21 @@
     "category": "卫视",
     "urls": [
       {
-        "url": "https://live.264788.xyz/channel/ningxiaweishi?streamid=551474d02bee1c160e1692e22c45ddba&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
-        "status": "geo",
-        "latency_ms": 1144,
-        "source": "vbskycn/iptv"
-      },
-      {
         "url": "https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
         "status": "geo",
-        "latency_ms": 1153,
+        "latency_ms": 1424,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
         "status": "geo",
-        "latency_ms": 1192,
+        "latency_ms": 1434,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://live.264788.xyz/channel/ningxiaweishi?streamid=551474d02bee1c160e1692e22c45ddba&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+        "status": "geo",
+        "latency_ms": 1440,
         "source": "vbskycn/iptv"
       }
     ]
@@ -444,7 +486,7 @@
       {
         "url": "https://liveout.xntv.tv/a65jur/96iln2.m3u8",
         "status": "ok",
-        "latency_ms": 2009,
+        "latency_ms": 1498,
         "source": "vbskycn/iptv"
       }
     ]
@@ -456,7 +498,7 @@
       {
         "url": "http://gmxw.7766.org:808/hls/40/index.m3u8",
         "status": "ok",
-        "latency_ms": 4394,
+        "latency_ms": 678,
         "source": "vbskycn/iptv"
       }
     ]
@@ -468,7 +510,7 @@
       {
         "url": "http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8",
         "status": "ok",
-        "latency_ms": 533,
+        "latency_ms": 491,
         "source": "vbskycn/iptv"
       }
     ]
@@ -480,7 +522,7 @@
       {
         "url": "http://ls.qingting.fm/live/60180.m3u8",
         "status": "ok",
-        "latency_ms": 830,
+        "latency_ms": 1468,
         "source": "vbskycn/iptv"
       }
     ]
@@ -492,7 +534,7 @@
       {
         "url": "http://ls.qingting.fm/live/60260.m3u8",
         "status": "ok",
-        "latency_ms": 832,
+        "latency_ms": 1442,
         "source": "vbskycn/iptv"
       }
     ]
@@ -504,19 +546,19 @@
       {
         "url": "http://119.39.9.8:9901/tsfile/live/0118_1.m3u8",
         "status": "ok",
-        "latency_ms": 3482,
-        "source": "vbskycn/iptv"
-      },
-      {
-        "url": "https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
-        "status": "geo",
-        "latency_ms": 878,
+        "latency_ms": 414,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://live.264788.xyz/channel/shanxiweishi?streamid=eeb7d60ca6e0db131ea7a092a3cd28d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
         "status": "geo",
-        "latency_ms": 879,
+        "latency_ms": 1409,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+        "status": "geo",
+        "latency_ms": 1437,
         "source": "vbskycn/iptv"
       }
     ]
@@ -528,7 +570,7 @@
       {
         "url": "https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4",
         "status": "geo",
-        "latency_ms": 535,
+        "latency_ms": 748,
         "source": "vbskycn/iptv"
       }
     ]
@@ -540,7 +582,7 @@
       {
         "url": "http://183.11.239.36:808/hls/18/index.m3u8",
         "status": "ok",
-        "latency_ms": 1529,
+        "latency_ms": 429,
         "source": "vbskycn/iptv"
       }
     ]
@@ -552,7 +594,7 @@
       {
         "url": "https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8",
         "status": "geo",
-        "latency_ms": 1089,
+        "latency_ms": 1103,
         "source": "vbskycn/iptv"
       }
     ]
@@ -562,21 +604,21 @@
     "category": "卫视",
     "urls": [
       {
-        "url": "https://srs.iyb983.cn:443/video/CYS/index.m3u8",
+        "url": "https://srs.iyb983.cn/video/CYS/index.m3u8",
         "status": "ok",
-        "latency_ms": 2621,
+        "latency_ms": 1548,
         "source": "vbskycn/iptv"
       },
       {
-        "url": "https://srs.iyb983.cn/video/CYS/index.m3u8",
+        "url": "https://srs.iyb983.cn:443/video/CYS/index.m3u8",
         "status": "ok",
-        "latency_ms": 2628,
+        "latency_ms": 1602,
         "source": "vbskycn/iptv"
       },
       {
         "url": "http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#",
         "status": "ok",
-        "latency_ms": 4673,
+        "latency_ms": 2172,
         "source": "vbskycn/iptv"
       }
     ]
@@ -588,13 +630,13 @@
       {
         "url": "http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd",
         "status": "ok",
-        "latency_ms": 1547,
+        "latency_ms": 652,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://live.264788.xyz/channel/xinjiangweishi?streamid=4f481f56ae39ce5d24203471de9df635&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
         "status": "geo",
-        "latency_ms": 158,
+        "latency_ms": 1084,
         "source": "vbskycn/iptv"
       }
     ]
@@ -606,13 +648,13 @@
       {
         "url": "http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
         "status": "ok",
-        "latency_ms": 2430,
+        "latency_ms": 1231,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
         "status": "geo",
-        "latency_ms": 1159,
+        "latency_ms": 1432,
         "source": "vbskycn/iptv"
       }
     ]
@@ -624,19 +666,19 @@
       {
         "url": "https://ls.qingting.fm/live/1650/64k.m3u8",
         "status": "ok",
-        "latency_ms": 685,
-        "source": "vbskycn/iptv"
-      },
-      {
-        "url": "http://ls.qingting.fm/live/1650.m3u8",
-        "status": "ok",
-        "latency_ms": 1668,
+        "latency_ms": 1279,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd",
         "status": "ok",
-        "latency_ms": 2179,
+        "latency_ms": 1322,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ls.qingting.fm/live/1650.m3u8",
+        "status": "ok",
+        "latency_ms": 1441,
         "source": "vbskycn/iptv"
       }
     ]
@@ -648,7 +690,7 @@
       {
         "url": "https://radio.pull.hebtv.com/live/hebnczx.m3u8",
         "status": "ok",
-        "latency_ms": 2769,
+        "latency_ms": 1310,
         "source": "vbskycn/iptv"
       }
     ]
@@ -660,7 +702,7 @@
       {
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8",
         "status": "ok",
-        "latency_ms": 690,
+        "latency_ms": 519,
         "source": "vbskycn/iptv"
       }
     ]
@@ -670,21 +712,21 @@
     "category": "地方台",
     "urls": [
       {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 473,
+        "source": "vbskycn/iptv"
+      },
+      {
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8",
         "status": "ok",
-        "latency_ms": 614,
+        "latency_ms": 520,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
         "status": "ok",
-        "latency_ms": 713,
-        "source": "vbskycn/iptv"
-      },
-      {
-        "url": "http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
-        "status": "ok",
-        "latency_ms": 718,
+        "latency_ms": 749,
         "source": "vbskycn/iptv"
       }
     ]
@@ -694,33 +736,33 @@
     "category": "卫视",
     "urls": [
       {
-        "url": "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
-        "status": "ok",
-        "latency_ms": 756,
-        "source": "vbskycn/iptv"
-      },
-      {
         "url": "http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8",
         "status": "ok",
-        "latency_ms": 773,
-        "source": "vbskycn/iptv"
-      },
-      {
-        "url": "http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8",
-        "status": "ok",
-        "latency_ms": 867,
-        "source": "vbskycn/iptv"
-      },
-      {
-        "url": "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?",
-        "status": "ok",
-        "latency_ms": 1005,
+        "latency_ms": 536,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
         "status": "ok",
-        "latency_ms": 1008,
+        "latency_ms": 573,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?",
+        "status": "ok",
+        "latency_ms": 576,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 623,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8",
+        "status": "ok",
+        "latency_ms": 667,
         "source": "vbskycn/iptv"
       }
     ]
@@ -730,33 +772,33 @@
     "category": "地方台",
     "urls": [
       {
-        "url": "http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
-        "status": "ok",
-        "latency_ms": 493,
-        "source": "vbskycn/iptv"
-      },
-      {
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8",
         "status": "ok",
-        "latency_ms": 555,
+        "latency_ms": 442,
         "source": "vbskycn/iptv"
       },
       {
-        "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?",
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
         "status": "ok",
-        "latency_ms": 673,
-        "source": "vbskycn/iptv"
-      },
-      {
-        "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
-        "status": "ok",
-        "latency_ms": 745,
+        "latency_ms": 486,
         "source": "vbskycn/iptv"
       },
       {
         "url": "http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8",
         "status": "ok",
-        "latency_ms": 1479,
+        "latency_ms": 595,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 628,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?",
+        "status": "ok",
+        "latency_ms": 692,
         "source": "vbskycn/iptv"
       }
     ]
@@ -768,25 +810,25 @@
       {
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
         "status": "ok",
-        "latency_ms": 529,
-        "source": "vbskycn/iptv"
-      },
-      {
-        "url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
-        "status": "ok",
-        "latency_ms": 665,
+        "latency_ms": 409,
         "source": "vbskycn/iptv"
       },
       {
         "url": "http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8",
         "status": "ok",
-        "latency_ms": 714,
+        "latency_ms": 533,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+        "status": "ok",
+        "latency_ms": 598,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?",
         "status": "ok",
-        "latency_ms": 872,
+        "latency_ms": 783,
         "source": "vbskycn/iptv"
       }
     ]
@@ -798,7 +840,7 @@
       {
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
         "status": "ok",
-        "latency_ms": 755,
+        "latency_ms": 431,
         "source": "vbskycn/iptv"
       }
     ]
@@ -808,21 +850,21 @@
     "category": "地方台",
     "urls": [
       {
+        "url": "http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8",
+        "status": "ok",
+        "latency_ms": 475,
+        "source": "vbskycn/iptv"
+      },
+      {
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8",
         "status": "ok",
-        "latency_ms": 468,
+        "latency_ms": 657,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
         "status": "ok",
-        "latency_ms": 863,
-        "source": "vbskycn/iptv"
-      },
-      {
-        "url": "http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8",
-        "status": "ok",
-        "latency_ms": 1786,
+        "latency_ms": 856,
         "source": "vbskycn/iptv"
       }
     ]
@@ -834,7 +876,7 @@
       {
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8",
         "status": "ok",
-        "latency_ms": 624,
+        "latency_ms": 471,
         "source": "vbskycn/iptv"
       }
     ]
@@ -846,13 +888,13 @@
       {
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed",
         "status": "ok",
-        "latency_ms": 615,
+        "latency_ms": 791,
         "source": "vbskycn/iptv"
       },
       {
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8",
         "status": "ok",
-        "latency_ms": 667,
+        "latency_ms": 792,
         "source": "vbskycn/iptv"
       }
     ]
@@ -864,25 +906,25 @@
       {
         "url": "http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8",
         "status": "ok",
-        "latency_ms": 565,
-        "source": "vbskycn/iptv"
-      },
-      {
-        "url": "http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8",
-        "status": "ok",
-        "latency_ms": 571,
+        "latency_ms": 580,
         "source": "vbskycn/iptv"
       },
       {
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8",
         "status": "ok",
-        "latency_ms": 617,
+        "latency_ms": 824,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8",
+        "status": "ok",
+        "latency_ms": 828,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?",
         "status": "ok",
-        "latency_ms": 804,
+        "latency_ms": 921,
         "source": "vbskycn/iptv"
       }
     ]
@@ -894,25 +936,25 @@
       {
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
         "status": "ok",
-        "latency_ms": 490,
+        "latency_ms": 698,
         "source": "vbskycn/iptv"
       },
       {
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8",
         "status": "ok",
-        "latency_ms": 593,
+        "latency_ms": 736,
         "source": "vbskycn/iptv"
       },
       {
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8",
         "status": "ok",
-        "latency_ms": 615,
+        "latency_ms": 770,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?",
         "status": "ok",
-        "latency_ms": 738,
+        "latency_ms": 947,
         "source": "vbskycn/iptv"
       }
     ]
@@ -924,13 +966,13 @@
       {
         "url": "http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8",
         "status": "ok",
-        "latency_ms": 732,
+        "latency_ms": 580,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
         "status": "ok",
-        "latency_ms": 777,
+        "latency_ms": 745,
         "source": "vbskycn/iptv"
       }
     ]
@@ -942,7 +984,7 @@
       {
         "url": "http://ls.qingting.fm/live/1099.m3u8",
         "status": "ok",
-        "latency_ms": 583,
+        "latency_ms": 744,
         "source": "vbskycn/iptv"
       }
     ]
@@ -954,7 +996,7 @@
       {
         "url": "http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8",
         "status": "ok",
-        "latency_ms": 3877,
+        "latency_ms": 630,
         "source": "vbskycn/iptv"
       }
     ]
@@ -966,19 +1008,19 @@
       {
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
         "status": "ok",
-        "latency_ms": 706,
+        "latency_ms": 428,
         "source": "vbskycn/iptv"
       },
       {
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8",
         "status": "ok",
-        "latency_ms": 763,
+        "latency_ms": 461,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?",
         "status": "ok",
-        "latency_ms": 941,
+        "latency_ms": 576,
         "source": "vbskycn/iptv"
       }
     ]
@@ -988,21 +1030,21 @@
     "category": "地方台",
     "urls": [
       {
-        "url": "http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+        "url": "http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8",
         "status": "ok",
-        "latency_ms": 476,
+        "latency_ms": 512,
         "source": "vbskycn/iptv"
       },
       {
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8",
         "status": "ok",
-        "latency_ms": 574,
+        "latency_ms": 613,
         "source": "vbskycn/iptv"
       },
       {
-        "url": "http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8",
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
         "status": "ok",
-        "latency_ms": 5693,
+        "latency_ms": 619,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1014,13 +1056,13 @@
       {
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8",
         "status": "ok",
-        "latency_ms": 681,
+        "latency_ms": 611,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
         "status": "ok",
-        "latency_ms": 849,
+        "latency_ms": 767,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1032,7 +1074,7 @@
       {
         "url": "http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8",
         "status": "ok",
-        "latency_ms": 793,
+        "latency_ms": 2643,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1042,15 +1084,15 @@
     "category": "地方台",
     "urls": [
       {
-        "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8",
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?",
         "status": "ok",
-        "latency_ms": 731,
+        "latency_ms": 785,
         "source": "vbskycn/iptv"
       },
       {
-        "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?",
+        "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8",
         "status": "ok",
-        "latency_ms": 821,
+        "latency_ms": 2627,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1060,21 +1102,21 @@
     "category": "地方台",
     "urls": [
       {
+        "url": "http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8",
+        "status": "ok",
+        "latency_ms": 426,
+        "source": "vbskycn/iptv"
+      },
+      {
         "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
         "status": "ok",
-        "latency_ms": 884,
+        "latency_ms": 595,
         "source": "vbskycn/iptv"
       },
       {
         "url": "http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8",
         "status": "ok",
-        "latency_ms": 1022,
-        "source": "vbskycn/iptv"
-      },
-      {
-        "url": "http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8",
-        "status": "ok",
-        "latency_ms": 1999,
+        "latency_ms": 951,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1086,7 +1128,19 @@
       {
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8",
         "status": "ok",
-        "latency_ms": 579,
+        "latency_ms": 477,
+        "source": "vbskycn/iptv"
+      }
+    ]
+  },
+  {
+    "name": "深圳卫视",
+    "category": "卫视",
+    "urls": [
+      {
+        "url": "http://gmxw.7766.org:808/hls/45/index.m3u8",
+        "status": "ok",
+        "latency_ms": 656,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1096,27 +1150,27 @@
     "category": "卫视",
     "urls": [
       {
-        "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8",
+        "url": "http://www.yao87.com:4022/udp/239.76.246.101:1234",
         "status": "ok",
-        "latency_ms": 524,
+        "latency_ms": 755,
         "source": "vbskycn/iptv"
       },
       {
-        "url": "http://www.yao87.com:4022/udp/239.76.246.101:1234",
+        "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8",
         "status": "ok",
-        "latency_ms": 1100,
+        "latency_ms": 756,
         "source": "vbskycn/iptv"
       },
       {
         "url": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
         "status": "ok",
-        "latency_ms": 2123,
+        "latency_ms": 1376,
         "source": "vbskycn/iptv"
       },
       {
         "url": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
         "status": "ok",
-        "latency_ms": 2689,
+        "latency_ms": 1958,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1128,7 +1182,7 @@
       {
         "url": "http://218.13.170.98:9901/tsfile/live/0141_1.m3u8",
         "status": "ok",
-        "latency_ms": 5773,
+        "latency_ms": 4013,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1140,7 +1194,7 @@
       {
         "url": "https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=1cf7fc3a8f6d160c33b43c2f9507a0cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
         "status": "geo",
-        "latency_ms": 190,
+        "latency_ms": 211,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1150,27 +1204,27 @@
     "category": "地方台",
     "urls": [
       {
-        "url": "https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+        "url": "https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
         "status": "geo",
-        "latency_ms": 144,
+        "latency_ms": 174,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://live.264788.xyz/channel/fujianlvyou?streamid=fc58882de71ce4575b66002f2475226b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
         "status": "geo",
-        "latency_ms": 153,
-        "source": "vbskycn/iptv"
-      },
-      {
-        "url": "https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
-        "status": "geo",
-        "latency_ms": 159,
+        "latency_ms": 191,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://live.264788.xyz/channel/fujianlvyou?streamid=599c11c8b284751261b165f4d5765b36&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
         "status": "geo",
-        "latency_ms": 159,
+        "latency_ms": 220,
+        "source": "vbskycn/iptv"
+      },
+      {
+        "url": "https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+        "status": "geo",
+        "latency_ms": 228,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1182,7 +1236,7 @@
       {
         "url": "https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8",
         "status": "ok",
-        "latency_ms": 3018,
+        "latency_ms": 1232,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1194,7 +1248,7 @@
       {
         "url": "https://live-auth.51kandianshi.com/szgd/csztv3.m3u8",
         "status": "ok",
-        "latency_ms": 918,
+        "latency_ms": 1241,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1206,7 +1260,7 @@
       {
         "url": "https://live-auth.51kandianshi.com/szgd/csztv1.m3u8",
         "status": "ok",
-        "latency_ms": 909,
+        "latency_ms": 1083,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1218,7 +1272,7 @@
       {
         "url": "https://live-auth.51kandianshi.com/szgd/csztv5.m3u8",
         "status": "ok",
-        "latency_ms": 871,
+        "latency_ms": 1198,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1230,7 +1284,7 @@
       {
         "url": "https://live-auth.51kandianshi.com/szgd/csztv2.m3u8",
         "status": "ok",
-        "latency_ms": 843,
+        "latency_ms": 1192,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1242,13 +1296,13 @@
       {
         "url": "http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0",
         "status": "ok",
-        "latency_ms": 1942,
+        "latency_ms": 1102,
         "source": "vbskycn/iptv"
       },
       {
         "url": "https://live.264788.xyz/channel/xizangweishi?streamid=4b4e8ea919f1cfd5e43deed1d1675251&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
         "status": "geo",
-        "latency_ms": 645,
+        "latency_ms": 1255,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1260,7 +1314,7 @@
       {
         "url": "https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
         "status": "geo",
-        "latency_ms": 1190,
+        "latency_ms": 1436,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1272,7 +1326,7 @@
       {
         "url": "http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
         "status": "ok",
-        "latency_ms": 1510,
+        "latency_ms": 501,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1284,7 +1338,7 @@
       {
         "url": "https://ls.qingting.fm/live/1099/64k.m3u8",
         "status": "ok",
-        "latency_ms": 607,
+        "latency_ms": 587,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1296,7 +1350,7 @@
       {
         "url": "http://ls.qingting.fm/live/1222.m3u8",
         "status": "ok",
-        "latency_ms": 591,
+        "latency_ms": 560,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1308,7 +1362,7 @@
       {
         "url": "https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
         "status": "geo",
-        "latency_ms": 985,
+        "latency_ms": 1388,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1320,7 +1374,7 @@
       {
         "url": "http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0",
         "status": "ok",
-        "latency_ms": 723,
+        "latency_ms": 1748,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1332,7 +1386,7 @@
       {
         "url": "https://ls.qingting.fm/live/4972/64k.m3u8",
         "status": "ok",
-        "latency_ms": 1722,
+        "latency_ms": 1551,
         "source": "vbskycn/iptv"
       }
     ]
@@ -1344,7 +1398,7 @@
       {
         "url": "https://ls.qingting.fm/live/4974/64k.m3u8",
         "status": "ok",
-        "latency_ms": 1751,
+        "latency_ms": 610,
         "source": "vbskycn/iptv"
       }
     ]

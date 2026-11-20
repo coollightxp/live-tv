@@ -1,67 +1,66 @@
 ﻿分组,频道,状态,延迟ms,来源,详情,地址
-卫视,东南卫视,ok,2556,vbskycn/iptv,HTTP 200 分片OK,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-卫视,东方卫视,ok,1107,vbskycn/iptv,HTTP 200 分片OK,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-卫视,内蒙古卫视,ok,1471,vbskycn/iptv,HTTP 200 分片OK,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
-卫视,吉林卫视,ok,400,vbskycn/iptv,HTTP 200 分片OK,http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-卫视,四川卫视,geo,759,vbskycn/iptv,HTTP 200 内容异常,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-卫视,宁夏卫视,geo,764,vbskycn/iptv,HTTP 200 内容异常,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-卫视,安多卫视,ok,1163,vbskycn/iptv,HTTP 200 分片OK,https://liveout.xntv.tv/a65jur/96iln2.m3u8
-卫视,山西卫视,geo,739,vbskycn/iptv,HTTP 200 内容异常,https://live.264788.xyz/channel/shanxiweishi?streamid=eeb7d60ca6e0db131ea7a092a3cd28d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-卫视,延边卫视,ok,4099,vbskycn/iptv,HTTP 200 分片OK,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
-卫视,新疆卫视,ok,1532,vbskycn/iptv,HTTP 200 分片OK,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-卫视,江西卫视,ok,343,vbskycn/iptv,HTTP 200 分片OK,http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-卫视,浙江卫视,ok,492,vbskycn/iptv,HTTP 200 分片OK,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-卫视,湖南卫视,ok,1349,vbskycn/iptv,HTTP 200 分片OK,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-卫视,西藏卫视,ok,307,vbskycn/iptv,HTTP 200 分片OK,http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-卫视,贵州卫视,geo,804,vbskycn/iptv,HTTP 200 内容异常,https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-地方台,四川科教,ok,1305,vbskycn/iptv,HTTP 200 分片OK,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
-地方台,广西国际,geo,432,vbskycn/iptv,子列表 HTTP 403,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
-地方台,河北农民,ok,1062,vbskycn/iptv,HTTP 200 分片OK,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
-地方台,浙江休闲台,ok,450,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
-地方台,浙江公共新闻,ok,399,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-地方台,浙江国际,ok,374,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-地方台,浙江少儿,ok,418,vbskycn/iptv,HTTP 200 分片OK,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
-地方台,浙江教科,ok,365,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-地方台,浙江教科影视,ok,465,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-地方台,浙江教育,ok,419,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
-地方台,浙江数码时代,ok,410,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
-地方台,浙江新闻,ok,485,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
-地方台,浙江民生,ok,460,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-地方台,浙江民生休闲,ok,522,vbskycn/iptv,HTTP 200 分片OK,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
-地方台,浙江留学,ok,431,vbskycn/iptv,HTTP 200 分片OK,http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
-地方台,浙江经济,ok,352,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-地方台,浙江经济生活,ok,326,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-地方台,浙江经视,ok,493,vbskycn/iptv,HTTP 200 分片OK,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-地方台,浙江遂昌,ok,2781,vbskycn/iptv,HTTP 200 分片OK,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
-地方台,浙江钱江,ok,597,vbskycn/iptv,HTTP 200 分片OK,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?
-地方台,浙江钱江都市,ok,587,vbskycn/iptv,HTTP 200 分片OK,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-地方台,浙江钱江频道,ok,504,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-地方台,福建公共,geo,162,vbskycn/iptv,HTTP 200 内容异常,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=1cf7fc3a8f6d160c33b43c2f9507a0cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-地方台,福建旅游,geo,157,vbskycn/iptv,HTTP 200 内容异常,https://live.264788.xyz/channel/fujianlvyou?streamid=fc58882de71ce4575b66002f2475226b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-地方台,苏州,ok,1465,vbskycn/iptv,HTTP 200 分片OK,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-地方台,苏州文化生活,ok,1071,vbskycn/iptv,HTTP 200 分片OK,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-地方台,苏州新闻综合,ok,841,vbskycn/iptv,HTTP 200 分片OK,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-地方台,苏州生活资讯,ok,817,vbskycn/iptv,HTTP 200 分片OK,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-地方台,苏州社会经济,ok,861,vbskycn/iptv,HTTP 200 分片OK,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-地方台,陕西新闻咨询,ok,319,vbskycn/iptv,HTTP 200 分片OK,http://112.46.105.20:8009/hls/18/index.m3u8
-地方台,陕西秦腔,ok,326,vbskycn/iptv,HTTP 200 分片OK,http://112.46.105.20:8009/hls/22/index.m3u8
-央视,CCTV-1 综合,ok,244,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv1hd.m3u8
-央视,CCTV-10 科教,ok,233,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv10hd.m3u8
-央视,CCTV-11 戏曲,ok,233,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv11hd.m3u8
-央视,CCTV-12 社会与法,ok,232,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv12hd.m3u8
-央视,CCTV-13 新闻,ok,244,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv13hd.m3u8
-央视,CCTV-14 少儿,ok,235,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv14hd.m3u8
-央视,CCTV-15 音乐,ok,233,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv15hd.m3u8
-央视,CCTV-16 奥林匹克,geo,117,iptv-org/cn,HTTP 200 内容异常,http://74.91.26.218:82/live/cctv16hd.m3u8
-央视,CCTV-17 农业农村,ok,233,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv17hd.m3u8
-央视,CCTV-2 财经,ok,244,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv2hd.m3u8
-央视,CCTV-3 综艺,ok,234,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv3hd.m3u8
-央视,CCTV-5+ 体育赛事,geo,444,iptv-org/cn,HTTP 200 内容异常,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
-央视,CCTV-6 电影,ok,796,iptv-org/cn,HTTP 200 分片OK,http://69.30.245.50/live/cctv6.m3u8
-央视,CCTV-7 国防军事,ok,242,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv7hd.m3u8
-央视,CCTV-8 电视剧,ok,243,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv8hd.m3u8
-央视,CGTN,ok,925,vbskycn/iptv,HTTP 200 分片OK,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-央视,CGTN法语,ok,574,vbskycn/iptv,HTTP 200 分片OK,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-央视,CGTN纪录,ok,409,vbskycn/iptv,HTTP 200 分片OK,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-央视,CGTN西语,geo,126,vbskycn/iptv,HTTP 200 内容异常,https://0472.org/hls/cgtnx.m3u8
-央视,CGTN阿语,geo,110,vbskycn/iptv,HTTP 200 内容异常,https://0472.org/hls/cgtna.m3u8
+卫视,东南卫视,ok,781,vbskycn/iptv,HTTP 200 分片OK,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+卫视,东方卫视,ok,698,vbskycn/iptv,HTTP 200 分片OK,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+卫视,内蒙古卫视,ok,1681,vbskycn/iptv,HTTP 200 分片OK,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+卫视,吉林卫视,ok,514,vbskycn/iptv,HTTP 200 分片OK,http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+卫视,四川卫视,geo,1161,vbskycn/iptv,HTTP 200 内容异常,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+卫视,宁夏卫视,geo,1190,vbskycn/iptv,HTTP 200 内容异常,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+卫视,安多卫视,ok,1641,vbskycn/iptv,HTTP 200 分片OK,https://liveout.xntv.tv/a65jur/96iln2.m3u8
+卫视,山西卫视,geo,1176,vbskycn/iptv,HTTP 200 内容异常,https://live.264788.xyz/channel/shanxiweishi?streamid=eeb7d60ca6e0db131ea7a092a3cd28d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+卫视,延边卫视,ok,2427,vbskycn/iptv,HTTP 200 分片OK,https://srs.iyb983.cn/video/CYS/index.m3u8
+卫视,新疆卫视,ok,668,vbskycn/iptv,HTTP 200 分片OK,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
+卫视,江西卫视,ok,441,vbskycn/iptv,HTTP 200 分片OK,http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+卫视,浙江卫视,ok,391,vbskycn/iptv,HTTP 200 分片OK,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+卫视,湖南卫视,ok,1111,vbskycn/iptv,HTTP 200 分片OK,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+卫视,西藏卫视,ok,424,vbskycn/iptv,HTTP 200 分片OK,http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+卫视,贵州卫视,geo,1221,vbskycn/iptv,HTTP 200 内容异常,https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+地方台,四川科教,ok,816,vbskycn/iptv,HTTP 200 分片OK,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+地方台,广西国际,geo,652,vbskycn/iptv,子列表 HTTP 403,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
+地方台,河北农民,ok,1306,vbskycn/iptv,HTTP 200 分片OK,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
+地方台,浙江休闲台,ok,554,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
+地方台,浙江公共新闻,ok,637,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+地方台,浙江国际,ok,506,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+地方台,浙江少儿,ok,719,vbskycn/iptv,HTTP 200 分片OK,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
+地方台,浙江教科,ok,492,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+地方台,浙江教科影视,ok,704,vbskycn/iptv,HTTP 200 分片OK,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
+地方台,浙江教育,ok,548,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
+地方台,浙江数码时代,ok,528,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
+地方台,浙江新闻,ok,502,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8
+地方台,浙江民生,ok,679,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+地方台,浙江民生休闲,ok,613,vbskycn/iptv,HTTP 200 分片OK,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
+地方台,浙江留学,ok,680,vbskycn/iptv,HTTP 200 分片OK,http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
+地方台,浙江经济,ok,474,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+地方台,浙江经济生活,ok,612,vbskycn/iptv,HTTP 200 分片OK,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
+地方台,浙江经视,ok,681,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
+地方台,浙江遂昌,ok,2268,vbskycn/iptv,HTTP 200 分片OK,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+地方台,浙江钱江,ok,862,vbskycn/iptv,HTTP 200 分片OK,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?
+地方台,浙江钱江都市,ok,826,vbskycn/iptv,HTTP 200 分片OK,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+地方台,浙江钱江频道,ok,633,vbskycn/iptv,HTTP 200 分片OK,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+地方台,福建公共,geo,144,vbskycn/iptv,HTTP 200 内容异常,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=1cf7fc3a8f6d160c33b43c2f9507a0cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+地方台,福建旅游,geo,116,vbskycn/iptv,HTTP 200 内容异常,https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+地方台,苏州,ok,1649,vbskycn/iptv,HTTP 200 分片OK,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+地方台,苏州文化生活,ok,600,vbskycn/iptv,HTTP 200 分片OK,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+地方台,苏州新闻综合,ok,596,vbskycn/iptv,HTTP 200 分片OK,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+地方台,苏州生活资讯,ok,541,vbskycn/iptv,HTTP 200 分片OK,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+地方台,苏州社会经济,ok,584,vbskycn/iptv,HTTP 200 分片OK,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+地方台,陕西秦腔,ok,434,vbskycn/iptv,HTTP 200 分片OK,http://112.46.105.20:8009/hls/22/index.m3u8
+央视,CCTV-1 综合,ok,168,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv1hd.m3u8
+央视,CCTV-10 科教,ok,969,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv10hd.m3u8
+央视,CCTV-11 戏曲,ok,167,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv11hd.m3u8
+央视,CCTV-12 社会与法,ok,196,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv12hd.m3u8
+央视,CCTV-13 新闻,ok,171,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv13hd.m3u8
+央视,CCTV-14 少儿,ok,165,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv14hd.m3u8
+央视,CCTV-15 音乐,ok,174,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv15hd.m3u8
+央视,CCTV-16 奥林匹克,geo,83,iptv-org/cn,HTTP 200 内容异常,http://74.91.26.218:82/live/cctv16hd.m3u8
+央视,CCTV-17 农业农村,ok,155,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv17hd.m3u8
+央视,CCTV-2 财经,ok,198,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv2hd.m3u8
+央视,CCTV-3 综艺,ok,161,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv3hd.m3u8
+央视,CCTV-5+ 体育赛事,geo,363,iptv-org/cn,HTTP 200 内容异常,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+央视,CCTV-6 电影,ok,227,iptv-org/cn,HTTP 200 分片OK,http://69.30.245.50/live/cctv6.m3u8
+央视,CCTV-7 国防军事,ok,148,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv7hd.m3u8
+央视,CCTV-8 电视剧,ok,148,iptv-org/cn,HTTP 200 分片OK,http://74.91.26.218:82/live/cctv8hd.m3u8
+央视,CGTN,ok,789,vbskycn/iptv,HTTP 200 分片OK,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+央视,CGTN法语,ok,263,vbskycn/iptv,HTTP 200 分片OK,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+央视,CGTN纪录,ok,111,vbskycn/iptv,HTTP 200 分片OK,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+央视,CGTN西语,geo,275,vbskycn/iptv,HTTP 200 内容异常,https://0472.org/hls/cgtnx.m3u8
+央视,CGTN阿语,geo,250,vbskycn/iptv,HTTP 200 内容异常,https://0472.org/hls/cgtna.m3u8

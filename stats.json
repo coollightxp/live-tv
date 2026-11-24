@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 16:36:44 UTC",
+  "updated_at": "2026-11-24 03:30:25 UTC",
   "region": "overseas",
   "sources_up": [
     "vbskycn/iptv",
@@ -7,16 +7,16 @@
   ],
   "sources_down": [],
   "candidates": 112,
-  "alive": 86,
+  "alive": 90,
   "geo_limited": 13,
-  "dead": 13,
-  "deep_checked": 89,
+  "dead": 9,
+  "deep_checked": 93,
   "deep_removed": 3,
-  "channels": 56,
-  "lines": 99,
+  "channels": 58,
+  "lines": 103,
   "by_category": {
-    "央视": 19,
-    "卫视": 10,
+    "央视": 20,
+    "卫视": 11,
     "地方台": 27
   }
 }
